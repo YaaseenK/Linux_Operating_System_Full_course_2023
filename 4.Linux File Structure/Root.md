@@ -16,8 +16,9 @@ opt = optional software for the system
 proc = processes folder/ system information 
 root = home directory for the root account which is the highest privilege account on the Linux 
 run = drives are auto mounted
-sbin = similar to bin but dedicated to certain commands which cna be run by higher privilege users
+sbin = similar to bin but dedicated to certain commands which can be run by higher privilege users
 snap = new way of installing applications
+swap = extra place for things stored in the memory which hasn't been accessed in awhile
 sys
 tmp = files are temp stored 
 usr = files and utilities shared between users 
